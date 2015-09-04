@@ -1,12 +1,12 @@
 Exercice
 ========
 
-Exercice d‚Äôutilisation de git propos√© par le cours de Marc G. Gauthier <https://openclassrooms.com/membres/marcgg> pour OpenClassrooms sous le titre *G√©rer son code avec Git et GitHub*.
+Exercice d’utilisation de git proposé par le cours de Marc G. Gauthier <https://openclassrooms.com/membres/marcgg> pour OpenClassrooms sous le titre *Gérer son code avec Git et GitHub*.
 
 Mémo.md
 -------
 
-M√©mo des commandes vues dans le cours.
+Mémo des commandes vues dans le cours.
 
 Code.php
 --------
