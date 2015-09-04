@@ -34,7 +34,23 @@ public class Code
 	}
 	
 	/// ISSERS ///
+	public is_valid()
+	{
+		return (isset($this->auteur) && isset($this->version));
+	}
 	
 	/// GETTERS ///
+	public function version()
+	{
+		return $this->version;
+	}
+	public function auteur()
+	{
+		return $this->auteur;
+	}
+	public function exercice()
+	{
+		return $this->exercice;
+	}
 }
 ?>
