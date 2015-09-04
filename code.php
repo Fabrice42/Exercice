@@ -12,7 +12,7 @@ public class Code
 	protected $auteur;
 	protected $exercice;
 	
-	public function __construct($version, $auteur, Exercice $exerice)
+	public function __construct($version, $auteur, Exercice $exercice)
 	{
 		if (is_int($version) && ($version > 0)) $this->version = $version;
 		if (is_string($auteur) && strlen($auteur)) $this->auteur = $auteur;
